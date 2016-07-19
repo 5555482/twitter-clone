@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/5555482/twitter-clone/issues"
   },
-  "homepage": "https://github.com/5555482/twitter-clone#readme"
+  "homepage": "https://github.com/5555482/twitter-clone#readme",
+  "dependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "react": "^15.2.1"
+  }
 }
