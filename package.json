@@ -1,0 +1,25 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "Twitter",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5555482/twitter-clone.git"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5555482/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/5555482/twitter-clone#readme"
+}
